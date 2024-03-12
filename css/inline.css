@@ -1,0 +1,27 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid green;
+    margin: 5px;
+    display: inline-block;
+}
+/* #third{
+    display: none;
+} */
+h1{
+    border: 2px solid salmon;
+    width: 50%;
+}
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: darkorange;
+    margin: 50px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: darkmagenta;
+    margin: 20%;
+}

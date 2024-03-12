@@ -1,0 +1,52 @@
+h1{
+    text-align:center;
+    text-decoration: wavy red underline;
+    letter-spacing: 5px;
+    text-transform: lowercase;
+    color: aqua;
+}
+h3{
+    text-align:start;
+    text-decoration:  pink line-through;
+}
+p{
+    text-align:justify;
+    font-weight: 400;
+    line-height: 2.5;
+    font-size: 20;
+    display: flex;
+    background-color: rgb(2, 243, 62);
+}
+h2{
+    font-weight: 400;
+    text-decoration: double blue overline;
+    color: chartreuse;
+    text-indent: 0ch;
+}
+a{
+   text-decoration: none;
+   background-color: rgb(163, 86, 118);
+   color: rgb(159, 214, 31);
+   text-rendering: auto;
+   text-align: bold;
+   border-style: solid;
+}
+p.mode{
+    background-color: rgb(5, 238, 44);
+}
+p.king{
+    background-color:rgb(151, 19, 123);
+}
+hr{
+    color: cornflowerblue;
+    border-style: solid;
+}
+p.ghar{
+    background-color: rgb(133, 39, 44);
+}
+p.gh{
+    background-color: darkolivegreen;
+}
+p.bj{
+    background-color: darkkhaki;
+}
